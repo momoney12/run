@@ -1,0 +1,96 @@
+<dir>
+    <title>Genre Tv</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/genre_tv.xml</link>
+ </dir>
+
+<dir>
+<title>Networks</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
+</dir>
+
+<dir>
+  <title>Netflix Shows</title>
+  <tmdb>network/shows/213</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+<title>TV shows</title>
+<tmdb>/list/97690</tmdb>
+</dir>
+<dir>
+<title>Marvel</title>
+<tmdb>https://www.themoviedb.org/list/97686</tmdb>
+</dir>
+<dir>
+<title> Anime </title>
+<tmdb>https://www.themoviedb.org/list/97705</tmdb>
+</dir>
+<dir>
+<title>Medieval</title>
+<tmdb>https://www.themoviedb.org/list/97691</tmdb>
+</dir>
+<dir>
+<title>Urban</title>
+<tmdb>list/https://www.themoviedb.org/list/97693</tmdb>
+</dir>
+<dir>
+<title>game shows</title>
+<tmdb>list/https://www.themoviedb.org/list/97970</tmdb>
+</dir>
+<dir>
+<title>Western</title>
+<tmdb>list/https://www.themoviedb.org/list/97972</tmdb>
+</dir>
+<dir>
+<title>Animes tv</title>
+<tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
+</dir>
+
+<dir>
+  <title>TV Game Shows</title>
+  <tmdb>list/51238</tmdb>
+</dir>
+
+
+<dir>
+  <title>Action & Adventure</title>
+  <tmdb>genre/shows/10759</tmdb>
+</dir>
+
+<dir>
+  <title>Sci-Fi & Fantasy</title>
+  <tmdb>genre/shows/10765</tmdb>
+</dir>
+
+<dir>
+  <title>Soap</title>
+  <tmdb>genre/shows/10766</tmdb>
+</dir>
+
+<dir>
+  <title>War & Politics</title>
+  <tmdb>genre/shows/10768</tmdb>
+</dir>
+
+
+<dir>
+    <title>Airing Today</title>
+    <tmdb>tv/today</tmdb>
+	<thumbnail></thumbnail>
+    <fanart></fanart>
+</dir>
+
+<dir>
+    <title>Most Popular TV Shows</title>
+    <imdburl>charttv/tvmeter</imdburl>
+	<thumbnail></thumbnail>
+    <fanart></fanart>
+</dir>
+
+ <dir>
+<title>Search IMDB TV</title>
+<imdburl>searchseries</imdburl>
+<thumbnail></thumbnail>
+</dir>

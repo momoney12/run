@@ -1,0 +1,38 @@
+
+<dir>
+   <title>Movies</title>
+   <link>https://raw.githubusercontent.com/jay6912/Scorpion/master/s5%20movie.xml</link>
+</dir>
+
+<dir>
+   <title>Tv</title>
+   <link>https://raw.githubusercontent.com/jay6912/Scorpion/master/s%20tv.xml</link>
+</dir>
+    <dir>
+    <title>Movies 247</title>
+    <link>https://raw.githubusercontent.com/ontop12/tom/master/movies247.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title>247 TV</title>
+    <link>https://raw.githubusercontent.com/ontop12/tom/master/247-tv%20(1).xml</link>
+  </dir>
+</xml>
+<dir>
+<title>Search</title>
+<tmdb>search</tmdb>
+</dir>
+
+</xml>
+<plugin>
+    <name>Search</name>
+    <link>plugin://plugin.video.Scorpion/?action=search</link>
+    <thumbnail></thumbnail>
+</plugin>
+<plugin>
+    <name>Settings</name>
+    <link>plugin://plugin.video.Scorpion/?action=openSettings</link>
+    <thumbnail></thumbnail>
+</plugin>
