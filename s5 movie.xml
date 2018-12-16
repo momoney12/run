@@ -15,7 +15,7 @@
 </dir>
  <dir>
         <title>action thriller movies 2017</title>
-        <tmdb>list/63866</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/63866</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
@@ -28,7 +28,7 @@
 </dir> 
 <dir>
         <title>animated movies</title>
-        <tmdb>list/97709</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/97709</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
@@ -55,7 +55,7 @@
 </dir> 
 <dir>
         <title>Assassin</title>
-        <tmdb>list/63741</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/63741</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
@@ -67,13 +67,13 @@
 </dir> 
 <dir>
         <title>Boxing</title>
-        <tmdb>list/63100</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/63100</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
 <dir>
         <title>special forces</title>
-        <tmdb>list/65096</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/65096</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
@@ -85,7 +85,7 @@
 </dir> 
 <dir>
         <title>DC/Marvel</title>
-        <tmdb>list/3945</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/3945</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
@@ -97,7 +97,7 @@
 </dir> 
 <dir>
         <title>Hood</title>
-        <tmdb>list/50624</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/50624</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
@@ -114,13 +114,13 @@
 </dir>
  <dir>
         <title>Hood Movies</title>
-        <tmdb>https://www.themoviedb.org/list/50624</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/50624</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
   <dir>
         <title>westerns</title>
-        <tmdb>https://www.themoviedb.org/list/47711</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/47711</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
