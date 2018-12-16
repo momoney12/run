@@ -8,7 +8,17 @@
    <title>Tv</title>
    <link>https://raw.githubusercontent.com/momoney12/run/master/s%20tv.xml</link>
 </dir>
-    <dir>
+<dir>
+   <title>Movies boxset</title>
+   <link>https://raw.githubusercontent.com/lost50/end-of-days/master/myboxset.xml</link>
+</dir>
+
+<dir>
+   <title>Productions and Directors.xml</title>
+   <link>https://raw.githubusercontent.com/momoney12/run/master/Productions%20and%20Directors.xml</link>
+</dir>
+
+<dir>
     <title>Movies 247</title>
     <link>https://raw.githubusercontent.com/ontop12/tom/master/movies247.xml</link>
   </dir>
