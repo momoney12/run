@@ -22,7 +22,7 @@
 
 <dir>
         <title>New Movies</title>
-        <tmdb>list/97791</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/97791</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
@@ -35,21 +35,21 @@
 
 <dir>
         <title>GIRLS WITH GUNS</title>
-        <tmdb>list/93</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/93</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
 
 <dir>
         <title>dc Movies</title>
-        <tmdb>list/3</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/3</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
 
 <dir>
         <title>Science ficition flicks</title>
-        <tmdb>list/3945</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/3945</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
@@ -76,10 +76,22 @@
         <tmdb>list/65096</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
+</dir>
+ <dir>
+        <title>DC/Marvel am</title>
+        <tmdb>https://www.themoviedb.org/list/65093/list/3945</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
 </dir> 
 <dir>
         <title>DC/Marvel</title>
         <tmdb>list/3945</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>DC/Marvel movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/65096</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
@@ -96,7 +108,7 @@
 </dir>
 <dir>
         <title>mythology</title>
-        <tmdb>https://www.themoviedb.org/list/47717</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/47717</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
@@ -114,13 +126,13 @@
 </dir>
  <dir>
         <title>Greek and Roman movies</title>
-        <tmdb>https://www.themoviedb.org/list/63883</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/63883</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
    <dir>
         <title>Tyler Perry movies</title>
-        <tmdb>https://www.themoviedb.org/list/48265</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/48265</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>

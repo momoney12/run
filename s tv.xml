@@ -17,15 +17,15 @@
 
 <dir>
 <title>TV shows</title>
-<tmdb>/list/97690</tmdb>
+<tmdb>list/https://www.themoviedb.org/list/97690</tmdb>
 </dir>
 <dir>
 <title>Marvel</title>
-<tmdb>https://www.themoviedb.org/list/97686</tmdb>
+<tmdb>list/https://www.themoviedb.org/list/97686</tmdb>
 </dir>
 <dir>
 <title> Anime </title>
-<tmdb>https://www.themoviedb.org/list/97705</tmdb>
+<tmdb>list/https://www.themoviedb.org/list/97705</tmdb>
 </dir>
 <dir>
 <title>Medieval</title>
@@ -50,7 +50,7 @@
 
 <dir>
   <title>TV Game Shows</title>
-  <tmdb>list/51238</tmdb>
+  <tmdb>list/https://www.themoviedb.org/list/51238</tmdb>
 </dir>
 
 
