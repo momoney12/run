@@ -19,7 +19,18 @@
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
-
+ <dir>
+        <title>Action packed</title>
+        <tmdb>https://www.themoviedb.org/list/65093/list/99134</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+  <dir>
+        <title>My action</title>
+        <tmdb>https://www.themoviedb.org/list/65093/list/99454</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
 <dir>
         <title>Action Movies</title>
         <tmdb>list/https://www.themoviedb.org/list/47583</tmdb>
@@ -41,7 +52,7 @@
 
 <dir>
         <title>GIRLS WITH GUNS</title>
-        <tmdb>list/https://www.themoviedb.org/list/93</tmdb>
+        <tmdb>list/https://www.themoviedb.org/list/932</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
@@ -83,12 +94,7 @@
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
- <dir>
-        <title>DC/Marvel am</title>
-        <tmdb>https://www.themoviedb.org/list/65093/list/3945</tmdb>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</dir> 
+
 <dir>
         <title>DC/Marvel</title>
         <tmdb>list/https://www.themoviedb.org/list/3945</tmdb>
@@ -118,12 +124,7 @@
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
- <dir>
-        <title>Hood Movies</title>
-        <tmdb>list/https://www.themoviedb.org/list/50624</tmdb>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</dir>
+
   <dir>
         <title>westerns</title>
         <tmdb>list/https://www.themoviedb.org/list/47711</tmdb>
